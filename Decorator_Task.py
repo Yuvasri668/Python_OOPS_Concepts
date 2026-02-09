@@ -11,4 +11,4 @@ def dashboard(username):
     print("Welcome to Admin Dashboard!")
 
 dashboard("admin")      
-dashboard("user123")   
+dashboard("admin12")   
